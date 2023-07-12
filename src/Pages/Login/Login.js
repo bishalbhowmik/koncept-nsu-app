@@ -1,19 +1,22 @@
 import React, { useContext } from 'react';
 import { useForm } from 'react-hook-form';
 import { AuthContext } from '../../context/AuthProvider';
-import { toast } from 'react-hot-toast';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { toast } from 'react-toastify';
 
 const Login = () => {
     const { register,handleSubmit,formState: { errors }} = useForm();
     const {loginUser} = useContext(AuthContext);
+    const navigate = useNavigate();
 
     const handleLogin = (data) =>{
         loginUser(data.email,data.password)
         .then(result =>{
             const user = result.user;
             console.log(user);
-            toast('Login Successfull')
+            toast.success('Login Successfull');
+            navigate('/');
+
         })
         .catch(err =>{
             console.log(err);
@@ -60,7 +63,6 @@ const Login = () => {
 
                         <div className="divider">OR</div>
                     </div>
-
 
                 </form>
                 <button  className='btn btn-outline w-full'>Continue With Google</button>

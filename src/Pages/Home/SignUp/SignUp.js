@@ -2,32 +2,43 @@ import React, { useContext } from 'react';
 import { useForm, SubmitHandler } from "react-hook-form";
 import { AuthContext } from '../../../context/AuthProvider';
 import { Link, useNavigate } from 'react-router-dom';
-import { toast } from 'react-hot-toast';
+import Loading from '../../../components/Loading/Loading';
+import { toast } from 'react-toastify';
 
 
 const SignUp = () => {
-    const { createUser } = useContext(AuthContext);
+    const { createUser, updateUser,loading } = useContext(AuthContext);
     const { register, handleSubmit, formState: { errors } } = useForm();
     const navigate = useNavigate();
 
 
     const handleSignup = (data) =>{
+       
+        const userInfo = {displayName: data.name}
         createUser(data.email,data.password)
         .then(result =>{
             const user = result.user;
             console.log(user)
             if(user.uid){
-               
-                // navigate('/');
+                toast.success("User Registered Successfully");
+                navigate('/');
             }
 
-            toast('Signup Successful')
+            updateUser(userInfo)
+            .then(()=>{})
+            .catch(err =>console.log(err))
+
+            
+
+            
         })
         .catch(err=>{
             console.log(err)
         })
-        
+
     }
+
+   
 
     return (
 
