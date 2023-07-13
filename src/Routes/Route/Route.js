@@ -3,6 +3,8 @@ import Home from "../../Pages/Home/Home";
 import Main from "../../Layout/Main/Main";
 import SignUp from "../../Pages/Home/SignUp/SignUp";
 import Login from "../../Pages/Login/Login";
+import CourseOfferList from "../../Pages/CourseOfferList/CourseOfferList";
+import FacultyPredictor from "../../Pages/FacultyPredictor/FacultyPredictor";
 
 export const router = createBrowserRouter([
     {
@@ -20,7 +22,16 @@ export const router = createBrowserRouter([
             {
                 path:'/login',
                 element: <Login></Login>
+            },
+            {
+                path:'courseofferlist',
+                element: <CourseOfferList></CourseOfferList>
+            },
+            {
+                path:'/facultypredictor',
+                element: <FacultyPredictor></FacultyPredictor>
             }
+
         ]
            
         

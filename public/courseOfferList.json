@@ -1,0 +1,2802 @@
+[
+    {
+        "course": "ACT201",
+        "section": "1",
+        "faculty": "AhU",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "2",
+        "faculty": "AhU",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "3",
+        "faculty": "ASy",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC209",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "4",
+        "faculty": "ASy",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "5",
+        "faculty": "AWKm",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "6",
+        "faculty": "FIR",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "7",
+        "faculty": "FIR",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "8",
+        "faculty": "FIR",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "9",
+        "faculty": "FJM",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "10",
+        "faculty": "FI",
+        "time": "MW 05:20 PM - 06:20 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "11",
+        "faculty": "FI",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "12",
+        "faculty": "FI",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "13",
+        "faculty": "HHq1",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "14",
+        "faculty": "IAC",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "15",
+        "faculty": "IAC",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "16",
+        "faculty": "IAC",
+        "time": "MW 11:30 AM - 12:30 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "17",
+        "faculty": "MdM",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "18",
+        "faculty": "MdM",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "19",
+        "faculty": "NNh",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "20",
+        "faculty": "NNh",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "21",
+        "faculty": "SHA1",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "22",
+        "faculty": "SHA1",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "23",
+        "faculty": "TsA",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "24",
+        "faculty": "TsA",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "25",
+        "faculty": "Aru",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "26",
+        "faculty": "Aru",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "27",
+        "faculty": "KHM",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "28",
+        "faculty": "MhMR",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "29",
+        "faculty": "MhMR",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "30",
+        "faculty": "MTMD",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "31",
+        "faculty": "MTMD",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "32",
+        "faculty": "RUS",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "33",
+        "faculty": "RUS",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "34",
+        "faculty": "SHA1",
+        "time": "MW 05:20 PM - 06:20 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "35",
+        "faculty": "MdM",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC507",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "36",
+        "faculty": "RUS",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC603",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "37",
+        "faculty": "KSR",
+        "time": "MW 05:20 PM - 06:20 PM",
+        "room": "NAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "38",
+        "faculty": "MRe",
+        "time": "MW 05:20 PM - 06:20 PM",
+        "room": "NAC507",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "39",
+        "faculty": "HMM",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "NAC619A",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT201",
+        "section": "40",
+        "faculty": "MGR",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "SAC306",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "1",
+        "faculty": "AhU",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "2",
+        "faculty": "BFK",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "3",
+        "faculty": "BFK",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "4",
+        "faculty": "FIR",
+        "time": "MW 08:00 AM - 09:00 AM",
+        "room": "NAC1077",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "5",
+        "faculty": "FIR",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "6",
+        "faculty": "FI",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "7",
+        "faculty": "FI",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "8",
+        "faculty": "IAC",
+        "time": "MW 08:00 AM - 09:00 AM",
+        "room": "NAC1079",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "9",
+        "faculty": "IAC",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "NAC301",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "10",
+        "faculty": "MGR",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "11",
+        "faculty": "MGR",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC301",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "12",
+        "faculty": "MRe",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "13",
+        "faculty": "MRe",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "14",
+        "faculty": "Rby",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "15",
+        "faculty": "RMH1",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "16",
+        "faculty": "RMH1",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "17",
+        "faculty": "RMH1",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "18",
+        "faculty": "SHA1",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "19",
+        "faculty": "SHA1",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "20",
+        "faculty": "RMH1",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "21",
+        "faculty": "Sys",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "22",
+        "faculty": "Sys",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "NAC201",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "23",
+        "faculty": "TsA",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "24",
+        "faculty": "KHM",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "25",
+        "faculty": "MEF",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "26",
+        "faculty": "MEF",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "27",
+        "faculty": "IAC",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC507",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "28",
+        "faculty": "AhU",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "29",
+        "faculty": "MTMD",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT202",
+        "section": "30",
+        "faculty": "KSR",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT310",
+        "section": "1",
+        "faculty": "MGR",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT310",
+        "section": "2",
+        "faculty": "NNh",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC315",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT310",
+        "section": "3",
+        "faculty": "Rby",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT320",
+        "section": "1",
+        "faculty": "MGR",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT320",
+        "section": "2",
+        "faculty": "RMH1",
+        "time": "MW 08:00 AM - 09:00 AM",
+        "room": "NAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT360",
+        "section": "1",
+        "faculty": "BFK",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT360",
+        "section": "2",
+        "faculty": "Rby",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT370",
+        "section": "1",
+        "faculty": "RMH1",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "NAC315",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT370",
+        "section": "2",
+        "faculty": "KSR",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC216",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT380",
+        "section": "1",
+        "faculty": "FJM",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT410",
+        "section": "1",
+        "faculty": "AhU",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT430",
+        "section": "1",
+        "faculty": "AhU",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC313",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ACT460",
+        "section": "1",
+        "faculty": "MGR",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "1",
+        "faculty": "BSq",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC601",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "2",
+        "faculty": "MHR3",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "NAC602",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "3",
+        "faculty": "TZf",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "NAC1080",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "4",
+        "faculty": "RSP",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC1080",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "5",
+        "faculty": "RSP",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC1080",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "6",
+        "faculty": "RSP",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC1080",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "7",
+        "faculty": "RSN",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC504",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "8",
+        "faculty": "RSN",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "NAC1078",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "9",
+        "faculty": "AsKn",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC1078",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "10",
+        "faculty": "AsKn",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC601",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ANT101",
+        "section": "11",
+        "faculty": "AsKn",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC1078",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC111",
+        "section": "1",
+        "faculty": "ALB",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "OAT803",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC111",
+        "section": "2",
+        "faculty": "TkH",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "OAT803_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC111",
+        "section": "3",
+        "faculty": "TRS",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "OAT803_V1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC112",
+        "section": "1",
+        "faculty": "ASAA",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC112",
+        "section": "2",
+        "faculty": "NSdi",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC112",
+        "section": "3",
+        "faculty": "RSBR",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC121",
+        "section": "1",
+        "faculty": "MTU",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "OAT803",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC121",
+        "section": "2",
+        "faculty": "Siu",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "OAT803_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC121",
+        "section": "3",
+        "faculty": "RMY",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "OAT803_V1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC122",
+        "section": "1",
+        "faculty": "SnF",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC122",
+        "section": "2",
+        "faculty": "MTm2",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC122",
+        "section": "3",
+        "faculty": "ALB",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "LIB901_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC123",
+        "section": "1",
+        "faculty": "AHs1",
+        "time": "MW 12:40 PM - 02:50 PM",
+        "room": "LIB906",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC123",
+        "section": "2",
+        "faculty": "ASAA",
+        "time": "MW 12:40 PM - 02:50 PM",
+        "room": "LIB906_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC123",
+        "section": "3",
+        "faculty": "AHs1",
+        "time": "MW 09:10 AM - 11:20 AM",
+        "room": "LIB906",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC131",
+        "section": "1",
+        "faculty": "IsH",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC131",
+        "section": "2",
+        "faculty": "AKd1",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC131",
+        "section": "3",
+        "faculty": "ALB",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "SAC202",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC131",
+        "section": "4",
+        "faculty": "AKd1",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC131",
+        "section": "5",
+        "faculty": "IsH",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC133",
+        "section": "1",
+        "faculty": "RMY",
+        "time": "M 08:00 AM - 09:00 AM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC133",
+        "section": "2",
+        "faculty": "MTU",
+        "time": "W 08:00 AM - 09:00 AM",
+        "room": "SAC201",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC133",
+        "section": "3",
+        "faculty": "SnF",
+        "time": "R 08:00 AM - 09:00 AM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC200",
+        "section": "3",
+        "faculty": "SnF",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "LIB906",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC200",
+        "section": "4",
+        "faculty": "SnF",
+        "time": "R 02:40 PM - 04:10 PM",
+        "room": "LIB906",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC213",
+        "section": "1",
+        "faculty": "AKd1",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB905",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC213",
+        "section": "2",
+        "faculty": "SdS1",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB905_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC214",
+        "section": "1",
+        "faculty": "HUR",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB904_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC214",
+        "section": "2",
+        "faculty": "Rqh",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB904_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC215",
+        "section": "1",
+        "faculty": "SnF",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "OAT903",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC241",
+        "section": "1",
+        "faculty": "SqR",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "SAC801A",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC241",
+        "section": "2",
+        "faculty": "SqR",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC242",
+        "section": "1",
+        "faculty": "SIK3",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC604",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC251",
+        "section": "1",
+        "faculty": "IsH",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC261",
+        "section": "1",
+        "faculty": "Siu",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "SAC801A",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC261",
+        "section": "2",
+        "faculty": "Mfn",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC619A",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC262",
+        "section": "1",
+        "faculty": "Siu",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "SAC802",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC263",
+        "section": "1",
+        "faculty": "Mfn",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC264",
+        "section": "1",
+        "faculty": "HUR",
+        "time": "M 09:10 AM - 11:20 AM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC271",
+        "section": "1",
+        "faculty": "AKd1",
+        "time": "MW 08:00 AM - 09:00 AM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC272",
+        "section": "1",
+        "faculty": "Mun",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC273",
+        "section": "1",
+        "faculty": "SIK3",
+        "time": "M 09:10 AM - 11:20 AM",
+        "room": "LIB1002",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC281",
+        "section": "2",
+        "faculty": "TvM",
+        "time": "W 03:00 PM - 04:00 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC282",
+        "section": "1",
+        "faculty": "Mfq",
+        "time": "S 04:10 PM - 05:10 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC283",
+        "section": "1",
+        "faculty": "TvM",
+        "time": "M 03:00 PM - 04:00 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC293",
+        "section": "2",
+        "faculty": "ASAA",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "LIB906",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC293",
+        "section": "3",
+        "faculty": "ALB",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "LIB906_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC310",
+        "section": "1",
+        "faculty": "MTm2",
+        "time": "MW 12:40 PM - 02:50 PM",
+        "room": "LIB1002",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC310",
+        "section": "2",
+        "faculty": "SnF",
+        "time": "MW 12:40 PM - 02:50 PM",
+        "room": "LIB1002_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC316",
+        "section": "1",
+        "faculty": "Siu",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB902_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC316",
+        "section": "2",
+        "faculty": "AHs1",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB902_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC317",
+        "section": "1",
+        "faculty": "MTU",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "OAT902",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC318",
+        "section": "1",
+        "faculty": "Mun",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB910",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC318",
+        "section": "2",
+        "faculty": "SqR",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "LIB910_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC324",
+        "section": "1",
+        "faculty": "HUR",
+        "time": "ST 12:40 PM - 02:50 PM",
+        "room": "LIB904",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC324",
+        "section": "2",
+        "faculty": "MTm2",
+        "time": "ST 12:40 PM - 02:50 PM",
+        "room": "LIB904",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC334",
+        "section": "1",
+        "faculty": "AHs1",
+        "time": "W 08:00 AM - 09:00 AM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC343",
+        "section": "1",
+        "faculty": "Mun",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC344",
+        "section": "2",
+        "faculty": "HUR",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC384",
+        "section": "1",
+        "faculty": "TvM",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "LIB907",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC410",
+        "section": "1",
+        "faculty": "SJd",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC418",
+        "section": "1",
+        "faculty": "SIK3",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "OAT1003",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC419",
+        "section": "1",
+        "faculty": "Mfn",
+        "time": "STWR 09:10 AM - 11:20 AM",
+        "room": "OAT1002",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC437",
+        "section": "1",
+        "faculty": "HUR",
+        "time": "S 08:00 AM - 09:00 AM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC445",
+        "section": "1",
+        "faculty": "SIK3",
+        "time": "T 12:40 PM - 01:40 PM",
+        "room": "SAC210",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC453",
+        "section": "1",
+        "faculty": "NAw",
+        "time": "MW 08:00 AM - 09:00 AM",
+        "room": "SAC202",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC456",
+        "section": "1",
+        "faculty": "NAw",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "SAC801A",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC474",
+        "section": "1",
+        "faculty": "TBA",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC604",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC492",
+        "section": "2",
+        "faculty": "NAw",
+        "time": "R 08:00 AM - 09:00 AM",
+        "room": "OAT901",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC500",
+        "section": "3",
+        "faculty": "HUR",
+        "time": "R 12:40 PM - 01:40 PM",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC500",
+        "section": "4",
+        "faculty": "HUR",
+        "time": "R 12:40 PM - 01:40 PM",
+        "room": "TBA_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC510",
+        "section": "3",
+        "faculty": "MTm2",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB913_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC519",
+        "section": "3",
+        "faculty": "IsH",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB903",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC519",
+        "section": "4",
+        "faculty": "RMY",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "LIB903_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC535",
+        "section": "1",
+        "faculty": "AHs1",
+        "time": "S 01:50 PM - 02:50 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC576",
+        "section": "1",
+        "faculty": "ASAA",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC596",
+        "section": "3",
+        "faculty": "Mzc",
+        "time": "STR 09:10 AM - 11:20 AM",
+        "room": "OAT1001",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "ARC598",
+        "section": "1",
+        "faculty": "Mfn",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "LIB908",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT203",
+        "section": "1",
+        "faculty": "PyN",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT203",
+        "section": "2",
+        "faculty": "PyN",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT221",
+        "section": "1",
+        "faculty": "AIq",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT221",
+        "section": "2",
+        "faculty": "AIq",
+        "time": "MW 04:10 PM - 05:10 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT230",
+        "section": "1",
+        "faculty": "PyN",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT230",
+        "section": "2",
+        "faculty": "PyN",
+        "time": "MW 11:30 AM - 12:30 PM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT312",
+        "section": "1",
+        "faculty": "MSH3",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT312",
+        "section": "2",
+        "faculty": "MSH3",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT312L",
+        "section": "1",
+        "faculty": "IJn",
+        "time": "S 03:00 PM - 05:10 PM",
+        "room": "SAC412",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT312L",
+        "section": "2",
+        "faculty": "IJn",
+        "time": "T 03:00 PM - 05:10 PM",
+        "room": "SAC412_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT312L",
+        "section": "3",
+        "faculty": "IJn",
+        "time": "W 03:00 PM - 05:10 PM",
+        "room": "SAC412_V3",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT314",
+        "section": "1",
+        "faculty": "KNH",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT314",
+        "section": "2",
+        "faculty": "KNH",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT314L",
+        "section": "1",
+        "faculty": "AIq",
+        "time": "M 10:20 AM - 12:30 PM",
+        "room": "SAC414_V3",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT314L",
+        "section": "2",
+        "faculty": "AIq",
+        "time": "M 12:40 PM - 02:50 PM",
+        "room": "SAC414_v2",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT314L",
+        "section": "3",
+        "faculty": "AIq",
+        "time": "M 12:40 PM - 02:50 PM",
+        "room": "SAC414_V3",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT315",
+        "section": "1",
+        "faculty": "IJn",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT316",
+        "section": "1",
+        "faculty": "KNH",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT316L",
+        "section": "1",
+        "faculty": "NRO",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "SAC414",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT316L",
+        "section": "2",
+        "faculty": "NRO",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "SAC414_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT317",
+        "section": "1",
+        "faculty": "Sdl",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT317",
+        "section": "2",
+        "faculty": "Sdl",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT318",
+        "section": "1",
+        "faculty": "Sdl",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT318",
+        "section": "2",
+        "faculty": "Sdl",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT335",
+        "section": "1",
+        "faculty": "IJn",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT413",
+        "section": "1",
+        "faculty": "CAK",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "SAC403",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT413",
+        "section": "2",
+        "faculty": "CAK",
+        "time": "MW 11:30 AM - 12:30 PM",
+        "room": "SAC209",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT413L",
+        "section": "2",
+        "faculty": "CAK",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "SAC412_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT413L",
+        "section": "3",
+        "faculty": "CAK",
+        "time": "A 12:40 PM - 02:50 PM",
+        "room": "SAC412_V3",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT415",
+        "section": "1",
+        "faculty": "CAK",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT415L",
+        "section": "1",
+        "faculty": "MSH3",
+        "time": "R 10:20 AM - 12:30 PM",
+        "room": "SAC412",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT415L",
+        "section": "2",
+        "faculty": "MSH3",
+        "time": "R 10:20 AM - 12:30 PM",
+        "room": "SAC412_V",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT416/MIC311",
+        "section": "1",
+        "faculty": "SRS1",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "LIB611",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT417",
+        "section": "1",
+        "faculty": "IJn",
+        "time": "ST 11:30 AM - 12:30 PM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT419",
+        "section": "1",
+        "faculty": "Sdl",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT421",
+        "section": "1",
+        "faculty": "KNH",
+        "time": "MW 11:30 AM - 12:30 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "1",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "2",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "3",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "4",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "5",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "6",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "7",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "8",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT422",
+        "section": "9",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT423",
+        "section": "1",
+        "faculty": "CAK",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT423",
+        "section": "2",
+        "faculty": "CAK",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT425",
+        "section": "1",
+        "faculty": "Sdl",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT601",
+        "section": "1",
+        "faculty": "IJn",
+        "time": "W 07:00 PM - 09:00 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT608/BBT609",
+        "section": "1",
+        "faculty": "Awn",
+        "time": "T 07:00 PM - 09:00 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT615/BBT616",
+        "section": "1",
+        "faculty": "IqM",
+        "time": "S 07:00 PM - 09:00 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT622/BBT623",
+        "section": "1",
+        "faculty": "ABE",
+        "time": "R 07:00 PM - 09:00 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT630/BBT631",
+        "section": "1",
+        "faculty": "CqA",
+        "time": "M 07:00 PM - 09:00 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT638/BBT639",
+        "section": "1",
+        "faculty": "Muz",
+        "time": "F 10:30 AM - 12:30 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT671",
+        "section": "1",
+        "faculty": "SRS1",
+        "time": "W 07:00 PM - 09:00 PM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT685",
+        "section": "1",
+        "faculty": "RHS",
+        "time": "M 07:00 PM - 09:00 PM",
+        "room": "NAC512",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT695",
+        "section": "1",
+        "faculty": "MSH3",
+        "time": "S 07:00 PM - 09:00 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT701",
+        "section": "1",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT701",
+        "section": "2",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT702",
+        "section": "1",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT702",
+        "section": "2",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT702",
+        "section": "3",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT702",
+        "section": "4",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BBT702",
+        "section": "5",
+        "faculty": "TBA",
+        "time": "TBA",
+        "room": "TBA",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "1",
+        "faculty": "NMMk",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "2",
+        "faculty": "NMMk",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC302",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "3",
+        "faculty": "NJb",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "NAC308",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "4",
+        "faculty": "NJb",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "NAC309",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "5",
+        "faculty": "Snj",
+        "time": "ST 12:40 PM - 01:40 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "6",
+        "faculty": "Snj",
+        "time": "ST 01:50 PM - 02:50 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "7",
+        "faculty": "Snj",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "8",
+        "faculty": "NJb",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "9",
+        "faculty": "NJb",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "10",
+        "faculty": "NJb",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "11",
+        "faculty": "MBQ",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "12",
+        "faculty": "Gdd",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC302",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "13",
+        "faculty": "HAr1",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC401",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "14",
+        "faculty": "MBI",
+        "time": "RA 08:00 AM - 09:00 AM",
+        "room": "NAC414",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "15",
+        "faculty": "MBQ",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "16",
+        "faculty": "Ss1",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC302",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "17",
+        "faculty": "MBI",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC307",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "18",
+        "faculty": "ADy",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC307",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "19",
+        "faculty": "HAr1",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC401",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "20",
+        "faculty": "MBI",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "NAC203",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "21",
+        "faculty": "AdK1",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "NAC216",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "22",
+        "faculty": "AdK1",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC307",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "23",
+        "faculty": "Gdd",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC309",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "24",
+        "faculty": "Sjj",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC401",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "25",
+        "faculty": "SAP",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC517",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "26",
+        "faculty": "MBQ",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "27",
+        "faculty": "TBA",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC308",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "28",
+        "faculty": "ADy",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC501",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "29",
+        "faculty": "MKh1",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "30",
+        "faculty": "MBQ",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "31",
+        "faculty": "SB1",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC216",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "32",
+        "faculty": "DnH",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC308",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "33",
+        "faculty": "ADy",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC309",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "34",
+        "faculty": "Ss1",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC411",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "35",
+        "faculty": "SAP",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "36",
+        "faculty": "SAP",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC213",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "37",
+        "faculty": "CcK",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC216",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "38",
+        "faculty": "Ss1",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC302",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "39",
+        "faculty": "SB1",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC307",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "40",
+        "faculty": "FrA3",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC401",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "41",
+        "faculty": "NMMk",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC414",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "42",
+        "faculty": "MKh1",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "43",
+        "faculty": "KSAD",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC216",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "44",
+        "faculty": "ADy",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC302",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "45",
+        "faculty": "Sjj",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC307",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "46",
+        "faculty": "AdK1",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC309",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "47",
+        "faculty": "FrA3",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC401",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "48",
+        "faculty": "NMMk",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC414",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "49",
+        "faculty": "SAP",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC514",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "50",
+        "faculty": "Gdd",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC617",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "51",
+        "faculty": "Sjj",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC207",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "52",
+        "faculty": "Gdd",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "NAC207",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "53",
+        "faculty": "HAr1",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC408",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "54",
+        "faculty": "SB1",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC207",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "55",
+        "faculty": "KSAD",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC208",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "56",
+        "faculty": "TBA",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "NAC508",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "57",
+        "faculty": "TBA",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC507",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "58",
+        "faculty": "HAr1",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC618",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "59",
+        "faculty": "KSAD",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC208",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "60",
+        "faculty": "AdK1",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC507",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "61",
+        "faculty": "TBA",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC314",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "62",
+        "faculty": "TBA",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC202",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "63",
+        "faculty": "Ss1",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "NAC617",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "64",
+        "faculty": "Sjj",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC315",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "65",
+        "faculty": "FrA3",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC201",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "66",
+        "faculty": "KSAD",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "NAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "67",
+        "faculty": "MKh1",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "NAC315",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "68",
+        "faculty": "CcK",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "SAC304",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "69",
+        "faculty": "CcK",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "NAC203",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BEN205",
+        "section": "70",
+        "faculty": "MKh1",
+        "time": "RA 10:20 AM - 11:20 AM",
+        "room": "NAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "1",
+        "faculty": "KRC",
+        "time": "ST 08:00 AM - 09:00 AM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "2",
+        "faculty": "KRC",
+        "time": "ST 09:10 AM - 10:10 AM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "3",
+        "faculty": "KRC",
+        "time": "ST 10:20 AM - 11:20 AM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "4",
+        "faculty": "KNH",
+        "time": "ST 03:00 PM - 04:00 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "5",
+        "faculty": "SMd1",
+        "time": "ST 04:10 PM - 05:10 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "6",
+        "faculty": "SMd1",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "SAC403",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "7",
+        "faculty": "IqM",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "8",
+        "faculty": "Awn",
+        "time": "ST 05:20 PM - 06:20 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "9",
+        "faculty": "THn",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "10",
+        "faculty": "TBA",
+        "time": "MW 09:10 AM - 10:10 AM",
+        "room": "SAC209",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "11",
+        "faculty": "TBA",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "12",
+        "faculty": "SMDA",
+        "time": "MW 10:20 AM - 11:20 AM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "13",
+        "faculty": "THn",
+        "time": "MW 11:30 AM - 12:30 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "14",
+        "faculty": "KFR",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "15",
+        "faculty": "TBA",
+        "time": "MW 12:40 PM - 01:40 PM",
+        "room": "SAC209",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "16",
+        "faculty": "THn",
+        "time": "MW 01:50 PM - 02:50 PM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "17",
+        "faculty": "FZd",
+        "time": "MW 03:00 PM - 04:00 PM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "18",
+        "faculty": "HiM",
+        "time": "MW 05:20 PM - 06:20 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "19",
+        "faculty": "TBA",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "SAC402",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "20",
+        "faculty": "MZAr",
+        "time": "RA 09:10 AM - 10:10 AM",
+        "room": "SAC404",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "21",
+        "faculty": "HMS",
+        "time": "RA 12:40 PM - 01:40 PM",
+        "room": "SAC406",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "22",
+        "faculty": "LtB",
+        "time": "RA 01:50 PM - 02:50 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "23",
+        "faculty": "LtB",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "SAC403",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "24",
+        "faculty": "HMS",
+        "time": "RA 03:00 PM - 04:00 PM",
+        "room": "SAC405",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "25",
+        "faculty": "HMS",
+        "time": "RA 04:10 PM - 05:10 PM",
+        "room": "SAC403",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "26",
+        "faculty": "LtB",
+        "time": "RA 05:20 PM - 06:20 PM",
+        "room": "SAC403",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103",
+        "section": "27",
+        "faculty": "TBA",
+        "time": "RA 11:30 AM - 12:30 PM",
+        "room": "SAC407",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "1",
+        "faculty": "CAK",
+        "time": "S 10:20 AM - 12:20 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "2",
+        "faculty": "Fddn",
+        "time": "S 12:40 PM - 02:50 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "3",
+        "faculty": "SBI",
+        "time": "S 03:00 PM - 05:10 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "4",
+        "faculty": "JSJ",
+        "time": "M 10:20 AM - 12:30 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "5",
+        "faculty": "Klq",
+        "time": "M 12:40 PM - 02:50 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "6",
+        "faculty": "THn",
+        "time": "M 03:00 PM - 05:10 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "7",
+        "faculty": "KSP",
+        "time": "T 10:20 AM - 12:30 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "8",
+        "faculty": "KSP",
+        "time": "T 12:40 PM - 02:50 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "9",
+        "faculty": "SBI",
+        "time": "T 03:00 PM - 05:10 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "10",
+        "faculty": "JSJ",
+        "time": "W 10:20 AM - 12:30 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "11",
+        "faculty": "Klq",
+        "time": "W 12:40 PM - 01:40 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "12",
+        "faculty": "Klq",
+        "time": "W 03:00 PM - 05:10 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "13",
+        "faculty": "IJn",
+        "time": "R 10:20 AM - 12:30 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "14",
+        "faculty": "IJn",
+        "time": "R 12:40 PM - 02:50 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "15",
+        "faculty": "ABE",
+        "time": "R 03:00 PM - 05:10 PM",
+        "room": "SAC415",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "16",
+        "faculty": "KSP",
+        "time": "S 10:20 AM - 12:30 PM",
+        "room": "SAC415_v1",
+        "semester": "Spring 2023 (231)"
+    },
+    {
+        "course": "BIO103L",
+        "section": "17",
+        "faculty": "Fddn",
+        "time": "S 12:40 PM - 02:50 PM",
+        "room": "SAC415_v2",
+        "semester": "Spring 2023 (231)"
+    }
+]

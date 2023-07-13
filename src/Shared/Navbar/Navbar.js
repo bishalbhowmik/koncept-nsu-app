@@ -19,16 +19,17 @@ const Navbar = () => {
 
     const menuItem = <>
         <li><Link to='/'>Home</Link></li>
-        <li><Link to='/'>Advising Archive</Link></li>
-        <li><Link to='/'>Faculty Predictor</Link></li>
+        <li><Link to='/courseofferlist'>Advising Archive</Link></li>
+        <li><Link to='/facultypredictor'>Faculty Predictor</Link></li>
         <li><Link to='/'>CGPA Calculator</Link></li>
         <li><Link to='/'>Contact </Link></li>
 
 
         {
             user?.uid ? <>
-                <li><p className="text-sm text-blue-500 bg-gray-300">{user.displayName}</p></li>
+                
                 <li><Link onClick={logOutUser}> Sign Out </Link></li>
+                <li><p className="text-sm text-blue-500 bg-gray-300">{user.displayName}</p></li>
             </> : <>
                 <li><Link to='/signup'>Sign Up </Link></li>
                 <li><Link to='/login'> Login </Link></li>
