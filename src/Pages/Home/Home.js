@@ -4,7 +4,7 @@ import './Home.css';
 
 const Home = () => {
     return (
-        <div className='background'> 
+        <div className='background overflow-hidden'> 
          <img src={backgroundImage} alt="backgroundImage"/>  
         </div>
     );

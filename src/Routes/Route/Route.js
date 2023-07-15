@@ -5,6 +5,7 @@ import SignUp from "../../Pages/Home/SignUp/SignUp";
 import Login from "../../Pages/Login/Login";
 import CourseOfferList from "../../Pages/CourseOfferList/CourseOfferList";
 import FacultyPredictor from "../../Pages/FacultyPredictor/FacultyPredictor";
+import BasicTable from "../../components/Loading/BasicTable";
 
 export const router = createBrowserRouter([
     {

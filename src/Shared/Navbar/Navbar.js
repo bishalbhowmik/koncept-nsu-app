@@ -21,7 +21,7 @@ const Navbar = () => {
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/courseofferlist'>Advising Archive</Link></li>
         <li><Link to='/facultypredictor'>Faculty Predictor</Link></li>
-        <li><Link to='/'>CGPA Calculator</Link></li>
+        <li><Link to='/table'>CGPA Calculator</Link></li>
         <li><Link to='/'>Contact </Link></li>
 
 
