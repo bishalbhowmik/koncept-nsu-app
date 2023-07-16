@@ -1,11 +1,11 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import axios from "axios";
-import { useTable, useSortBy, useGlobalFilter, useFilters,usePagination } from "react-table";
-import './FacultyPredictor.css';
+import { useTable, useSortBy, useGlobalFilter, useFilters, usePagination } from "react-table";
+import './FacultyArchive.css';
 import GlobalFilter from './GlobalFilter';
 import { ColumnFilter } from './ColumnFilter';
 
-const FacultyPredictor = () => {
+const FacultyArchive = () => {
 
 
     const columns = useMemo(
@@ -85,14 +85,15 @@ const FacultyPredictor = () => {
     } = useTable({
         columns,
         data,
-        defaultColumn
+        defaultColumn,
+        initialState: {pageIndex:1}
     },
-        useFilters, 
+        useFilters,
         useGlobalFilter,
         // useSortBy,
         usePagination,);
 
-    const { globalFilter,pageIndex,pageSize } = state;
+    const { globalFilter, pageIndex, pageSize } = state;
 
 
     return (
@@ -133,28 +134,28 @@ const FacultyPredictor = () => {
                 </tbody>
             </table>
 
-            <div>
-                <span>
+            <div className='flex justify-end items-center p-5 bg-slate-50'>
+                <span className='text-sm'>
                     Page {' '}
                     <strong>
-                        {pageIndex+1} of {pageOptions.length}
+                        {pageIndex + 1} of {pageOptions.length}
                     </strong>
                 </span>
-                
-                <span>
-                    | Go to page: {' '}
-                    <input type='number' defaultValue={pageIndex+1}
-                    onChange={(e)=>{
-                        const pageNumber = e.target.value ? Number(e.target.value) -1 :0
-                        gotoPage(pageNumber)
-                    }}
-                    style={{width: '50px'}}
-                    />
-                </span>
 
-                <select value ={pageSize} onChange={e => setPageSize(Number(e.target.value))}>
+                {/* <span>
+                    | Go to page: {' '}
+                    <input type='number' defaultValue={pageIndex + 1}
+                        onChange={(e) => {
+                            const pageNumber = e.target.value ? Number(e.target.value) - 1 : 0
+                            gotoPage(pageNumber)
+                        }}
+                        style={{ width: '50px' }}
+                    />
+                </span> */}
+
+                <select className='text-sm border rounded border-black mx-2 hidden md:block' value={pageSize} onChange={e => setPageSize(Number(e.target.value))}>
                     {
-                        [10,25,50].map(pageSize =>(
+                        [10, 20, 50].map(pageSize => (
                             <option key={pageSize} value={pageSize}>
                                 Show {pageSize}
                             </option>
@@ -164,16 +165,18 @@ const FacultyPredictor = () => {
                 </select>
 
 
-                <button className='' onClick={()=>gotoPage(0)} disabled={!canPreviousPage}>{'<<'}</button>
+                <span>
+                    <button className='btn btn-success btn-xs' onClick={() => gotoPage(0)} disabled={!canPreviousPage}>{'<<'}</button>
 
-                <button className='btn btn-danger btn-xs mr-3' onClick={()=>previousPage()} disabled={!canPreviousPage}>Previous Page</button>
-                <button className='btn btn-danger btn-xs' onClick={()=>nextPage()} disabled={!canNextPage}>Next Page</button>
+                    <button className='btn btn-info btn-xs mr-3' onClick={() => previousPage()} disabled={!canPreviousPage}>Previous</button>
+                    <button className='btn btn-info btn-xs' onClick={() => nextPage()} disabled={!canNextPage}>Next </button>
 
-                <button className='' onClick={()=>gotoPage(pageCount-1)} disabled={!canNextPage}>{'>>'}</button>
+                    <button className='btn btn-success btn-xs' onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>{'>>'}</button>
+                </span>
             </div>
 
         </>
     );
 };
 
-export default FacultyPredictor;
+export default FacultyArchive;

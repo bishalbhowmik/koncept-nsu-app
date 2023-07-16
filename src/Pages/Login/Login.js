@@ -3,6 +3,7 @@ import { useForm } from 'react-hook-form';
 import { AuthContext } from '../../context/AuthProvider';
 import { Link, useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
+import '../../Pages/Home/SignUp/SignUp';
 
 const Login = () => {
     const { register,handleSubmit,formState: { errors }} = useForm();
@@ -24,7 +25,7 @@ const Login = () => {
     }
     return (
         <div className='flex flex-col items-center justify-center h-[100vh]'>
-            <div className='shadow-lg p-10 rounded w-[500px]'>
+            <div className='shadow-lg p-10 rounded w-[500px] signup'>
                 <form onSubmit={handleSubmit(handleLogin)}>
                     <h2 className='text-black text-center text-3xl'>Login</h2>
                     <div>

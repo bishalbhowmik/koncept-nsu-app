@@ -1,11 +1,29 @@
 import React, { useContext, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../context/AuthProvider';
+import './NavBar.css';
+import Loading from '../../components/Loading/Loading';
 
 const Navbar = () => {
 
     const { user, logOut } = useContext(AuthContext);
-    
+    const item = document.getElementById('toogle');
+    const side = document.getElementById('sidebar');
+
+    const bgChange = () => {
+
+        item.classList.toggle('active');
+        side.classList.toggle('active');
+    }
+
+    const buttonRemove = (e) => {
+        if (e.target.id !== 'toogle' && e.target.id !== 'sidebar') {
+            item.classList.remove('active')
+            side.classList.remove('active')
+        }
+
+    }
+
 
     const logOutUser = () => {
         logOut()
@@ -15,19 +33,19 @@ const Navbar = () => {
 
     console.log(user);
 
-  
+
 
     const menuItem = <>
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/courseofferlist'>Advising Archive</Link></li>
-        <li><Link to='/facultypredictor'>Faculty Predictor</Link></li>
-        <li><Link to='/table'>CGPA Calculator</Link></li>
+        <li><Link to='/'>Faculty Predictor</Link></li>
+        <li><Link to='/'>CGPA Calculator</Link></li>
         <li><Link to='/'>Contact </Link></li>
 
 
         {
             user?.uid ? <>
-                
+
                 <li><Link onClick={logOutUser}> Sign Out </Link></li>
                 <li><p className="text-sm text-blue-500 bg-gray-300">{user.displayName}</p></li>
             </> : <>
@@ -36,30 +54,42 @@ const Navbar = () => {
             </>
         }
     </>
+
+   
     return (
 
-        <div className="navbar bg-base-100 flex justify-between">
-            <div className="navbar-start">
-                <div className="dropdown">
-                    <label tabIndex={1} className="btn btn-ghost lg:hidden">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
-                    </label>
-                    <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
+        <div className="bg-base-100">
+            <div className="md:hidden nav-md">
+                <div className=''>
+                    <div id="toogle" onClick={bgChange} className='bishal' ></div>
+
+                    <div id="sidebar">
+                        <ul onClick={buttonRemove}>
+                            {menuItem}
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <Link to='/' className="btn btn-ghost normal-case text-xl">Koncept NSU App</Link>
+                </div>
+            </div>
+
+            {/* Large and medium */}
+
+            <div className="nav-lg">
+                <div>
+                    <Link to='/' className="btn btn-ghost normal-case text-xl">Koncept NSU App</Link>
+                </div>
+                <div>
+                    <ul className="menu menu-horizontal px-1">
                         {menuItem}
                     </ul>
                 </div>
-                <Link to='/' className="btn btn-ghost normal-case text-xl">Koncept NSU App</Link>
             </div>
-            <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1">
-                    {menuItem}
-                </ul>
-            </div>
-
-            <label htmlFor="dashboard-drawer" tabIndex={2} className="btn btn-ghost lg:hidden">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
-            </label>
         </div>
+
+
+
     );
 };
 

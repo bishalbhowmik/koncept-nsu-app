@@ -4,8 +4,9 @@ import Main from "../../Layout/Main/Main";
 import SignUp from "../../Pages/Home/SignUp/SignUp";
 import Login from "../../Pages/Login/Login";
 import CourseOfferList from "../../Pages/CourseOfferList/CourseOfferList";
-import FacultyPredictor from "../../Pages/FacultyPredictor/FacultyPredictor";
+import FacultyPredictor from "../../Pages/FacultyArchive/FacultyArchive";
 import BasicTable from "../../components/Loading/BasicTable";
+import FacultyArchive from "../../Pages/FacultyArchive/FacultyArchive";
 
 export const router = createBrowserRouter([
     {
@@ -26,12 +27,10 @@ export const router = createBrowserRouter([
             },
             {
                 path:'courseofferlist',
-                element: <CourseOfferList></CourseOfferList>
+                element: <FacultyArchive></FacultyArchive>
             },
-            {
-                path:'/facultypredictor',
-                element: <FacultyPredictor></FacultyPredictor>
-            }
+            
+
 
         ]
            

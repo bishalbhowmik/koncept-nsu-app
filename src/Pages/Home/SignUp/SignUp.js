@@ -4,10 +4,11 @@ import { AuthContext } from '../../../context/AuthProvider';
 import { Link, useNavigate } from 'react-router-dom';
 import Loading from '../../../components/Loading/Loading';
 import { toast } from 'react-toastify';
+import './SignUp.css';
 
 
 const SignUp = () => {
-    const { createUser, updateUser,loading } = useContext(AuthContext);
+    const { createUser, updateUser } = useContext(AuthContext);
     const { register, handleSubmit, formState: { errors } } = useForm();
     const navigate = useNavigate();
 
@@ -27,6 +28,7 @@ const SignUp = () => {
             updateUser(userInfo)
             .then(()=>{})
             .catch(err =>console.log(err))
+            window.location.reload();
 
             
 
@@ -43,11 +45,9 @@ const SignUp = () => {
     return (
 
         <div className='flex flex-col items-center justify-center h-[100vh]'>
-            <div className='shadow-lg p-10 rounded w-[500px]'>
+            <div className='shadow-lg p-10 rounded w-[500px] signup'>
                 <form onSubmit={handleSubmit(handleSignup)}>
                     <h2 className='text-black text-center text-3xl'>Sign Up</h2>
-
-
                     <div>
                         <label className="label">
                             <span className="label-text">Name</span>
@@ -82,9 +82,7 @@ const SignUp = () => {
                         {errors.password && <p className='text-gray-500'>{errors.password?.message}</p>}
 
                     </div>
-                    <div className='text-red-600'>
-                        
-                    </div>
+                   
 
                     <button className='btn btn-accent w-full text-white'>SignUp</button>
 
